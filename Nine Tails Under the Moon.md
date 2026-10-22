@@ -17,8 +17,6 @@ Mood: mystical, tragic, protective, ancient, cinematic
 ---
 
 [Intro]
-
-[Intro]
 Ooh, under the moon
 Yo-i, yo-i, the foxfire blooms
 Ooh, through cedar and stone
@@ -112,5 +110,3 @@ Ooh, under the moon
 Yo-i, yo-i, the foxfire blooms
 Ooh, through cedar and stone
 A thousand years, still guarding alone
-
-[Outro]
